@@ -13,3 +13,24 @@ If something is unclear, confusing, or downright stupid please tell us! You can 
 
 ## Why do we do a Take Home Test?
 At eBacon we do not believe you do your best work while 'under the gun'. Instead we want you to show us what kind of work you can do given more room to think and come up with a solution.
+
+---
+
+# Payroll Calculator Solution
+
+## How to Run
+
+**Prerequisites:** Python 3.6+
+
+**Run the calculator:**
+```bash
+python GeneralLogic/punch_calculator.py
+```
+
+**Or from the GeneralLogic directory:**
+```bash
+cd GeneralLogic
+python punch_calculator.py
+```
+
+**Expected output:** JSON with payroll calculations for Mike, Steve, and Alex including regular hours, overtime, double time, wage totals, and benefit totals.
